@@ -38,7 +38,7 @@ OpenRTX is currently in active development. There will be bugs as we prioritize 
 | Talkpod A36plus                |  ✅  |   ✅     |    ✅     | ❌  | 🟡   |     ✅     | N/A  | [on GitHub](https://github.com/OpenRTX/OpenRTX/issues?q=is:open+label:A36plus,ALL)    |
 | Retevis C62                    |  ✅  |   ✅     |    ✅     | ❌  | ❌   |     ❌     | N/A  | [on GitHub](https://github.com/OpenRTX/OpenRTX/issues?q=is:open+label:retevis-c62,ALL)    |
 | Connect Systems CS7000-M17     |  ✅  |   ✅     |    ✅     | ❌  | N/A  |     ✅     | ✅   | [on GitHub](https://github.com/OpenRTX/OpenRTX/issues?q=is:open+label:CS7000,ALL)            |
-| Connect Systems CS7000-M17 Plus|  ✅  |   ✅     |    ✅     | ❌  | N/A  |     ✅     | ❌   | [on GitHub](https://github.com/OpenRTX/OpenRTX/issues?q=is:open+label:CS7000-Plus,ALL)|
+| Connect Systems CS7000-M17 Plus|  ✅  |   ✅     |    ✅     | ❌  | N/A  |     ✅     | ✅   | [on GitHub](https://github.com/OpenRTX/OpenRTX/issues?q=is:open+label:CS7000-Plus,ALL)|
 
 ### Modes
 
